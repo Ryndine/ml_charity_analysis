@@ -1,4 +1,4 @@
-# Machine Learning - Charity Analysis
+# Neural Networks - Charity Analysis
 
 ## Objective
 Using neural networks to run an analysis on charity data.
