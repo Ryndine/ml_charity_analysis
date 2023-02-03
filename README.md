@@ -8,6 +8,7 @@ Create a binary classifier that is capable of predicting whether applicants will
 * Pandas
 * Scikit-Learn
 * Tensorflow
+* Matplotlib
 
 ## Exploration & Cleanup
 ```
