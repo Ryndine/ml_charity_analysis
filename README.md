@@ -1,7 +1,7 @@
 # Neural Networks - Charity Analysis
 
 ## Objective
-Create a binary classifier that is capable of predicting whether applicants will be successful if they recieve funding.
+Create a binary classifier that is capable of predicting whether applicants will be successful if they receive funding.
 
 ## Tools
 * Python
