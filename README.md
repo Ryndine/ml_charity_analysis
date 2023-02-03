@@ -215,4 +215,4 @@ Random forest model accuracy: 0.776
 ```
 The last thing I want to test is a simple RandomForestClassifier to see if the neural network was worth it.
 
-Since my results didn't yield significant improvements over the RFC, I can't say it was worth it. The computational requirement of the neural network relative to the accuracy didn't justify using it.
+Since my results didn't yield significant improvements over the RFC, I can't say it was worth it. The computational requirement of the neural network relative to the accuracy didn't justify using it. The dataset is likely too small for neural networks, I'd recommend using random forest classifier instead.
